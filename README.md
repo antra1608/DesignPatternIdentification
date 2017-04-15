@@ -1,0 +1,2 @@
+# DesignPatternIdentification
+Composite Pattern Identification technique
